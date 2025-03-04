@@ -5,7 +5,7 @@
 **Email**: lavnishbisht@gmail.com <br />
 **LinkedIn**: https://www.linkedin.com/in/lavnishbisht/ <br />
 
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
+
 
 
 **1.**  List the total number of reported crimes between 2018 and 2023?
