@@ -25,7 +25,7 @@ Examining which months experience the highest crime rates and the corresponding 
 * [Data Analysis Question & Answers](./questions_and_answers.md)
 
 ## Datasets used
-Eight key [datasets](./source_data/csv/) for this case study
+Eight key [datasets](./Source/csv/) for this case study
 - <strong>chicago_areas.csv</strong>: Chicago neighborhoods and areas.
 - <strong>chicago_temps_18-23.csv</strong>: City Weather 2018-2022.
 - <strong>chicago_crime_2018.csv</strong>: Reported crimes in 2018.
